@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## v1.0.1
+### Coverage on Xdebug
+- Adds `coverage` to `xdebug.mode`
+
 ## v1.0.0
 ### First Release!
 This release adds the following to the images:

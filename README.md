@@ -16,4 +16,4 @@ The image for this project is automatically deployed to DockerHub:
 - Contains opcache enabled
 
 ## Changes
-For release specific changes, see [CHANGELOG](./CHANGELOG)
+For release specific changes, see [CHANGELOG](./CHANGELOG.md)
