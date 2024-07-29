@@ -3,7 +3,7 @@ Repository responsible for maintaining my PHP development environment Docker set
 
 ## DockerHub
 The image for this project is automatically deployed to DockerHub:
-[aledefreitas/php-nginx-env](https://hub.docker.com/repository/docker/aledefreitas/php-nginx-env/general)
+[aledefreitas/php-nginx-env](https://hub.docker.com/r/aledefreitas/php-nginx-env)
 
 
 ## Tags
